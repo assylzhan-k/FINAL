@@ -3,7 +3,6 @@ import logging
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ContextTypes, ConversationHandler
 from handlers import quiz_data
-
 logger = logging.getLogger(__name__)
 (
     QUIZ_TITLE,
