@@ -1,0 +1,245 @@
+{
+  "categories": {
+    "Python": [
+      {
+        "question": "What keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "def",
+          "define",
+          "function"
+        ],
+        "answer": "def",
+        "explanation": "'def' is the keyword used to define functions in Python."
+      },
+      {
+        "question": "Which data structure uses key-value pairs in Python?",
+        "options": [
+          "List",
+          "Tuple",
+          "Dictionary",
+          "Set"
+        ],
+        "answer": "Dictionary",
+        "explanation": "Dictionaries store data as key-value pairs using curly braces {}."
+      },
+      {
+        "question": "What does OOP stand for?",
+        "options": [
+          "Object-Oriented Programming",
+          "Open-Output Process",
+          "Object-Output Programming",
+          "Ordered-Object Processing"
+        ],
+        "answer": "Object-Oriented Programming",
+        "explanation": "OOP stands for Object-Oriented Programming, a paradigm based on objects and classes."
+      },
+      {
+        "question": "Which method is called when an object is created from a class?",
+        "options": [
+          "__start__",
+          "__init__",
+          "__create__",
+          "__new__"
+        ],
+        "answer": "__init__",
+        "explanation": "__init__ is the constructor method called automatically when a new object is instantiated."
+      },
+      {
+        "question": "What is the output of type([]) in Python?",
+        "options": [
+          "<class 'array'>",
+          "<class 'tuple'>",
+          "<class 'list'>",
+          "<class 'dict'>"
+        ],
+        "answer": "<class 'list'>",
+        "explanation": "[] is a list literal, so type([]) returns <class 'list'>."
+      }
+    ],
+    "Science": [
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+          "WA",
+          "H2O",
+          "HO2",
+          "W2O"
+        ],
+        "answer": "H2O",
+        "explanation": "Water is made of 2 Hydrogen atoms and 1 Oxygen atom, hence H2O."
+      },
+      {
+        "question": "What planet is known as the Red Planet?",
+        "options": [
+          "Venus",
+          "Jupiter",
+          "Mars",
+          "Saturn"
+        ],
+        "answer": "Mars",
+        "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+      },
+      {
+        "question": "What is the speed of light in a vacuum (approx)?",
+        "options": [
+          "300,000 km/s",
+          "150,000 km/s",
+          "450,000 km/s",
+          "1,000,000 km/s"
+        ],
+        "answer": "300,000 km/s",
+        "explanation": "The speed of light in a vacuum is approximately 299,792 km/s, rounded to 300,000."
+      },
+      {
+        "question": "What gas do plants absorb during photosynthesis?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide",
+        "explanation": "Plants absorb CO2 and release O2 during photosynthesis."
+      },
+      {
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+          "Nucleus",
+          "Ribosome",
+          "Mitochondria",
+          "Golgi apparatus"
+        ],
+        "answer": "Mitochondria",
+        "explanation": "Mitochondria produce ATP (energy) for the cell through cellular respiration."
+      }
+    ],
+    "History": [
+      {
+        "question": "In what year did World War II end?",
+        "options": [
+          "1943",
+          "1944",
+          "1945",
+          "1946"
+        ],
+        "answer": "1945",
+        "explanation": "World War II ended in 1945 with Germany surrendering in May and Japan in September."
+      },
+      {
+        "question": "Who was the first person to walk on the Moon?",
+        "options": [
+          "Buzz Aldrin",
+          "Yuri Gagarin",
+          "Neil Armstrong",
+          "John Glenn"
+        ],
+        "answer": "Neil Armstrong",
+        "explanation": "Neil Armstrong became the first human to walk on the Moon on July 20, 1969."
+      },
+      {
+        "question": "Which ancient wonder was located in Alexandria?",
+        "options": [
+          "The Colossus",
+          "The Lighthouse",
+          "The Hanging Gardens",
+          "The Mausoleum"
+        ],
+        "answer": "The Lighthouse",
+        "explanation": "The Lighthouse of Alexandria was one of the Seven Wonders of the Ancient World."
+      },
+      {
+        "question": "Who wrote the Declaration of Independence?",
+        "options": [
+          "George Washington",
+          "Benjamin Franklin",
+          "Thomas Jefferson",
+          "John Adams"
+        ],
+        "answer": "Thomas Jefferson",
+        "explanation": "Thomas Jefferson was the primary author of the Declaration of Independence in 1776."
+      },
+      {
+        "question": "What year did the Berlin Wall fall?",
+        "options": [
+          "1987",
+          "1989",
+          "1991",
+          "1993"
+        ],
+        "answer": "1989",
+        "explanation": "The Berlin Wall fell on November 9, 1989, marking a key moment in the end of the Cold War."
+      }
+    ],
+    "Math": [
+      {
+        "question": "What is the value of Pi (to 2 decimal places)?",
+        "options": [
+          "3.12",
+          "3.14",
+          "3.16",
+          "3.18"
+        ],
+        "answer": "3.14",
+        "explanation": "Pi (π) ≈ 3.14159..., commonly rounded to 3.14."
+      },
+      {
+        "question": "What is the square root of 144?",
+        "options": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ],
+        "answer": "12",
+        "explanation": "12 × 12 = 144, so √144 = 12."
+      },
+      {
+        "question": "How many sides does a hexagon have?",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "answer": "6",
+        "explanation": "A hexagon has 6 sides. 'Hex' means six in Greek."
+      },
+      {
+        "question": "What is 15% of 200?",
+        "options": [
+          "20",
+          "25",
+          "30",
+          "35"
+        ],
+        "answer": "30",
+        "explanation": "15% of 200 = 0.15 × 200 = 30."
+      },
+      {
+        "question": "What is the result of 2^10?",
+        "options": [
+          "512",
+          "1024",
+          "2048",
+          "256"
+        ],
+        "answer": "1024",
+        "explanation": "2^10 = 2 × 2 × ... (10 times) = 1024."
+      }
+    ],
+    "👤 TEST 3 (by аки)": [
+      {
+        "question": "who are you",
+        "options": [
+          "one",
+          "two",
+          "threee",
+          "fotry"
+        ],
+        "answer": "one",
+        "explanation": "The correct answer is A. one"
+      }
+    ]
+  }
+}
